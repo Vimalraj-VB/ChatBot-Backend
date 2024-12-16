@@ -85,6 +85,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+	     <finalName>chatbot-demo</finalName>
 	</build>
-
 </project>
